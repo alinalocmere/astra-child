@@ -5,3 +5,8 @@ Author: Alina Locmere
 Template: Astra
 */
 
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: chartreuse;
+}
